@@ -16,5 +16,7 @@ To preprocess the features of protein and ligand, we use the following software:
 - [AlphaFold](https://github.com/google-deepmind/alphafold) (Initial release)
 - [GraphMVP](https://github.com/chao1224/GraphMVP)
 
+Pretrained parameters: https://drive.google.com/drive/folders/1lhxNFHkCYpbDy_EN2NDCyLQoRxm6tyZj?usp=sharing
+
 
 
