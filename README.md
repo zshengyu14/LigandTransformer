@@ -18,5 +18,8 @@ To preprocess the features of protein and ligand, we use the following software:
 
 Pretrained parameters: https://drive.google.com/drive/folders/1lhxNFHkCYpbDy_EN2NDCyLQoRxm6tyZj?usp=sharing
 
+## License
+This software is copyrighted by Vendruscolo Lab @ University of Cambridge.
 
+The algorithm and data can be used for academic purposes.
 
